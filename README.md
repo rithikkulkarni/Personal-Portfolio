@@ -8,9 +8,9 @@ Welcome to my personal portfolio! This is a space where I bring together my two 
 
 I'm a **software engineer** with a love for building thoughtful, human-centered technology — and a **piano teacher/content creator** dedicated to helping musicians of all levels express themselves with confidence.
 
-- 👨‍💻 Experienced in full-stack development, machine learning, and educational technology  
-- 🎹 Passionate about music education, classical & contemporary piano, and creative content creation  
-- 🎥 I also create engaging piano tutorials, practice tips, and fun musical content across platforms
+- 👨‍💻 Experienced in full-stack development, machine learning, and educational technology
+- 🎹 Passionate about music education, classical & contemporary piano, and creative content creation
+- 🎥 I also create engaging piano performances, arrangements, and compositions across platforms
 
 ---
 
