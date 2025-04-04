@@ -1,0 +1,42 @@
+# 🎵💻 My Personal Portfolio
+
+Welcome to my personal portfolio! This is a space where I bring together my two biggest passions: **software engineering** and **piano performance & education**. Whether you're here to explore my coding projects or discover my music tutorials and content, there's something for everyone.
+
+---
+
+## 🧠 About Me
+
+I'm a **software engineer** with a love for building thoughtful, human-centered technology — and a **piano teacher/content creator** dedicated to helping musicians of all levels express themselves with confidence.
+
+- 👨‍💻 Experienced in full-stack development, machine learning, and educational technology  
+- 🎹 Passionate about music education, classical & contemporary piano, and creative content creation  
+- 🎥 I also create engaging piano tutorials, practice tips, and fun musical content across platforms
+
+---
+
+## 🌐 Website Overview
+
+This portfolio is built to reflect both sides of my journey:
+
+### 👨‍💻 Computer Science
+- A showcase of selected **projects** in machine learning, data science, and software/web development
+- Display for my experience as a data analyst, engineer, researcher, musician, creator, and leader.
+
+### 🎹 Piano Teaching & Content Creation
+- A hub for my personal music contributions
+- Info on 1-on-1 teaching and online classes
+- Links to my social channels and music content
+
+---
+
+## 🛠️ Tech Stack
+
+My portfolio is designed with:
+
+- **HTML + CSS** – Clean and responsive design
+- **JavaScript** – Dynamic elements and interactive components
+- **Bootstrap** – Enhanced UI elements
+- **GitHub Pages** – For hosting
+git clone https://github.com/yourusername/your-portfolio.git
+cd your-portfolio
+open index.html
