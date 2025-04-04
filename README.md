@@ -37,6 +37,3 @@ My portfolio is designed with:
 - **JavaScript** – Dynamic elements and interactive components
 - **Bootstrap** – Enhanced UI elements
 - **GitHub Pages** – For hosting
-git clone https://github.com/yourusername/your-portfolio.git
-cd your-portfolio
-open index.html
