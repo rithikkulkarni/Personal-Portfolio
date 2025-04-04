@@ -1,12 +1,12 @@
 # 🎵💻 My Personal Portfolio
 
-Welcome to my personal portfolio! This is a space where I bring together my two biggest passions: **software engineering** and **piano performance & education**. Whether you're here to explore my coding projects or discover my music tutorials and content, there's something for everyone.
+Welcome to my personal portfolio! This is a space where I bring together my two biggest passions: computer science and piano. Whether you're here to explore my coding projects or discover my music tutorials and content, there's something for everyone.
 
 ---
 
 ## 🧠 About Me
 
-I'm a **software engineer** with a love for building thoughtful, human-centered technology — and a **piano teacher/content creator** dedicated to helping musicians of all levels express themselves with confidence.
+I'm a computer science student researching educational applications for AI/ML — and a piano teacher/content creator dedicated to helping musicians of all levels express themselves with confidence.
 
 - 👨‍💻 Experienced in full-stack development, machine learning, and educational technology
 - 🎹 Passionate about music education, classical & contemporary piano, and creative content creation
